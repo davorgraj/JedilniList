@@ -12,7 +12,7 @@ while True:
     konec = raw_input("želite dodati še eno(da/ne)?")
     if konec.lower() == "ne":
         break
-je
+
 print "Jedilni list:"
 main.write("Jedilni list:\n")
 
