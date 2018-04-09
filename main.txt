@@ -1,0 +1,8 @@
+Jedilni list:
+Jed: juha Cena: 5€
+Jed: špageti Cena: 10€
+
+jed,cena
+juha,50
+spageti,30
+rezanci,40
